@@ -1,0 +1,12 @@
+[http]  
+	postBuffer = 524288000
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://gitfanxiaole:Fxl1028..@github.com/gitfanxiaole/NLP.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
